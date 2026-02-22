@@ -1,4 +1,4 @@
-# Sistema-de-ControleManuten-oEquipamentos-
+# Sistema-de-ControleManuten-Equipamentos-
 Sistema de Controle de Manutenção de Equipamentos Industriais/ Projeto integrador
 
 # Sistema de Controle de Manutenção de Equipamentos
@@ -16,14 +16,14 @@ O **Sistema de Controle de Manutenção de Equipamentos** é uma aplicação des
 
 ## Tecnologias Utilizadas
 
-- **Linguagem**: [Coloque a linguagem de programação utilizada, ex: Java, Python, etc.]
-- **Framework**: [Coloque o framework utilizado, ex: Spring, Django, etc.]
-- **Banco de Dados**: [Coloque o banco de dados utilizado, ex: MySQL, PostgreSQL, etc.]
+- **Linguagem**: [JAVA.]
+- **Framework**: [Spring boot.]
+
 
 ## Instalação
 
 Siga os passos abaixo para instalar e configurar o projeto em sua máquina local:
 
 1. Clone o repositório:
-   ```bash
+ 
    git clone https://github.com/Santtos33/Sistema-de-ControleManuten-oEquipamentos-.git
